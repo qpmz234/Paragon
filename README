@@ -30,14 +30,10 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/qpmz234/Paragon">
     <img src="src/resources/menu.png" alt="Logo" width="192" height="108">
   </a>
-
-  <h3 align="center">Paragon</h3>
-
   <p align="center">
     WIP Roguelike built in Python and libtcod
     <br />
