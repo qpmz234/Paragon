@@ -1,0 +1,2 @@
+FULLBRIGHT = True
+MAPGEN = True
