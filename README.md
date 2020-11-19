@@ -119,5 +119,5 @@ Project Link: [https://github.com/qpmz234/Paragon](https://github.com/qpmz234/Pa
 [issues-shield]: https://img.shields.io/github/issues/qpmz234/Paragon.svg?style=flat-square
 [issues-url]: https://github.com/qpmz234/Paragon/issues
 [license-shield]: https://img.shields.io/github/license/qpmz234/Paragon.svg?style=flat-square
-[license-url]: https://github.com/qpmz234/Paragon/blob/master/LICENSE.txt
+[license-url]: https://github.com/qpmz234/Paragon/blob/master/LICENSE.md
 [product-screenshot]: images/screenshot.png
