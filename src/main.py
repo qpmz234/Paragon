@@ -1,5 +1,7 @@
 import tcod
 import traceback
+import numpy as np
+import sys
 
 
 import state.menu
